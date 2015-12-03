@@ -1,5 +1,5 @@
 //*********************Завдання 1*********************
-//*Знайти неперервний підмасив масиву , сума елементів якого є максимальною.
+//*Знайти неперервний підмасив масиву, сума елементів якого є максимальною.
 function getMaxSumOfSub(array) {
     if(typeof array !== "object" || array.length == undefined) {
         console.log("Type of this argument must to be array");
