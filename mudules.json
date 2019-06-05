@@ -1,0 +1,28 @@
+[
+  {
+    "path": "App1",
+    "location": "https://raw.githubusercontent.com/lmeijdam/angular-umd-dynamic-example/master/src/assets/moduled.umd.js",
+    "moduleName": "App1",
+    "description": "default subnavigation with 3 components and some clarity stuff"
+  },
+  {
+    "path": "App2",
+    "location": "https://raw.githubusercontent.com/lmeijdam/angular-umd-dynamic-example/master/src/assets/modulea.umd.js",
+    "moduleName": "App2",
+    "description": "clarity form",
+    "registered": true
+  },
+  {
+    "path": "App3",
+    "location": "https://raw.githubusercontent.com/lmeijdam/angular-umd-dynamic-example/master/src/assets/moduleb.umd.js",
+    "moduleName": "App3",
+    "description": "clarity tab control with table and card - custom elements"
+  },
+  {
+    "path": "App4",
+    "location": "https://raw.githubusercontent.com/lmeijdam/angular-umd-dynamic-example/master/src/assets/modulec.umd.js",
+    "moduleName": "ModulecModule",
+    "description": "clarity modal - custom elements",
+    "registered": true
+  }
+]
